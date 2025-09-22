@@ -8,7 +8,7 @@ Me encanta aprender nuevas herramientas y compartir lo que sé con la comunidad.
 ## 🚀 Tecnologías y herramientas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,kotlin,springboot,android,git,github,docker" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,kotlin,spring boot,git,github,docker" />
 </p>
 
 ---
