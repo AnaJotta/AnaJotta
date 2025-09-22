@@ -14,7 +14,10 @@ Me encanta aprender nuevas herramientas y compartir lo que sé con la comunidad.
 ---
 
 ## 📊 Estadísticas de GitHub
-![Tu Usuario GitHub stats](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=radical)
+
+![AnaJotta's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaJotta&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaJotta&layout=compact&theme=radical)
 
 ---
 
