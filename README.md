@@ -15,7 +15,6 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,docker,idea,eclipse,vscode" />
-  <img src="assets/netbeans.png" alt="NetBeans" width="48" height="48"/>
   <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman" width="48" height="48"/>
 </p>
 
