@@ -6,17 +6,20 @@
 ## 🚀 Tecnologías  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,kotlin,spring,git,github,docker" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,kotlin,spring" />
 </p>
 
 ---
-## 🔧 herramientas
+
+## 🔧 Herramientas  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,intellij-idea,apache-netbeans,eclipse,visual-studio-code"/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,idea,netbeans,eclipse,vscode" />
+  <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="postman" width="48" height="48"/>
 </p>
 
 ---
+
 ## 📊 Estadísticas de GitHub
 
 ![AnaJotta's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaJotta&show_icons=true&theme=radical)
