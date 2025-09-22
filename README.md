@@ -1,18 +1,21 @@
-# 👋 ¡Hola! Soy Ana Jessica Marín Morales
-
-Soy una desarrolladora apasionada por la tecnología y la creación de soluciones innovadoras.  
-Me encanta aprender nuevas herramientas y compartir lo que sé con la comunidad.
+# 🌐Software & App Developer🌐
+## 👩‍💻 Estudiante de DAM. 
 
 ---
 
-## 🚀 Tecnologías y herramientas
+## 🚀 Tecnologías  
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,java,kotlin,spring,git,github,docker" />
 </p>
 
 ---
+## 🔧 herramientas
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,intellij,netbeans,eclipse" />
+</p>
+---
 ## 📊 Estadísticas de GitHub
 
 ![AnaJotta's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaJotta&show_icons=true&theme=radical)
@@ -36,7 +39,10 @@ Además, vengo de un recorrido profesional diverso (administración, docencia, r
 
 Actualmente, busco seguir creciendo como desarrolladora, aportando soluciones eficientes, escalables y de calidad en proyectos reales 🚀.
 
-- 📫 Cómo contactarme: https://www.linkedin.com/in/ana-j-marin-morales/
+- 📫 Cómo contactarme: [![Email](https://img.shields.io/badge/Email-Enviar-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anajessicamarinmorales@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Visitar-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-j-marin-morales/)
+
 
 ---
 ✨ _Gracias por visitar mi perfil_ ✨
