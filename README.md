@@ -14,9 +14,11 @@
 ## 🔧 Herramientas  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,idea,netbeans,eclipse,vscode" />
-  <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="postman" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,idea,eclipse,vscode" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/NetBeans_Icon.png" alt="NetBeans" width="48" height="48"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman" width="48" height="48"/>
 </p>
+
 
 ---
 
@@ -44,6 +46,7 @@ Además, vengo de un recorrido profesional diverso (administración, docencia, r
 Actualmente, busco seguir creciendo como desarrolladora, aportando soluciones eficientes, escalables y de calidad en proyectos reales 🚀.
 
 ---
+
 ## 📫 Contacto
 
 ¿Quieres ponerte en contacto conmigo?  
