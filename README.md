@@ -22,10 +22,21 @@ Me encanta aprender nuevas herramientas y compartir lo que sé con la comunidad.
 ---
 
 ## 🌱 Sobre mí
-- 🔭 Actualmente trabajando en: ...
-- 🌱 Aprendiendo: ...
-- 💬 Pregúntame sobre: ...
-- 📫 Cómo contactarme: [LinkedIn](#) | [Portafolio](#)
+
+Soy Ana Jessica Marín, estudiante de 2º curso de Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM).  
+Me apasiona el desarrollo de software, especialmente en el área **back-end** con **Java y Spring Boot**, aunque también disfruto creando aplicaciones móviles con **Kotlin** y **Android**.
+
+Tengo experiencia práctica en:
+- Desarrollo de **APIs REST** con Spring Boot.
+- Bases de datos relacionales como **MySQL**.
+- Automatización de procesos y mejora continua.
+- Control de versiones con **Git y GitHub**.
+
+Además, vengo de un recorrido profesional diverso (administración, docencia, retail), lo que me ha dado habilidades clave como **resolución de problemas, trabajo en equipo y comunicación**.
+
+Actualmente, busco seguir creciendo como desarrolladora, aportando soluciones eficientes, escalables y de calidad en proyectos reales 🚀.
+
+- 📫 Cómo contactarme: https://www.linkedin.com/in/ana-j-marin-morales/
 
 ---
 ✨ _Gracias por visitar mi perfil_ ✨
