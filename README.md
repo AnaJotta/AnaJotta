@@ -13,8 +13,9 @@
 ## 🔧 herramientas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,intellij,netbeans,eclipse" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,intellij-idea,apache-netbeans,eclipse,visual-studio-code"/>
 </p>
+
 ---
 ## 📊 Estadísticas de GitHub
 
@@ -39,9 +40,14 @@ Además, vengo de un recorrido profesional diverso (administración, docencia, r
 
 Actualmente, busco seguir creciendo como desarrolladora, aportando soluciones eficientes, escalables y de calidad en proyectos reales 🚀.
 
-- 📫 Cómo contactarme: [![Email](https://img.shields.io/badge/Email-Enviar-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anajessicamarinmorales@gmail.com)
+---
+## 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Visitar-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-j-marin-morales/)
+¿Quieres ponerte en contacto conmigo?  
+Aquí tienes mis enlaces directos:
+
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail&logoColor=white)](mailto:anajessicamarinmorales@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-j-marin-morales/)
 
 
 ---
