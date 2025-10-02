@@ -4,9 +4,19 @@
 ---
 
 ## 🎓 Certificaciones
-- <a href="https://github.com/AnaJotta/AnaJotta/blob/396e2dbcff0b2639b935bc549079e48bf133ddb2/Emotional%20Intelligence%20in%20Leadership.pdf" target="_blank">
+
+<!-- Certificado DevOps -->
+<a href="https://github.com/AnaJotta/AnaJotta/blob/main/Certificado%20DevOps.pdf" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/24/000000/pdf.png" alt="PDF icon"/> Certificado DevOps
+</a>
+
+<br/>
+
+<!-- Certificado de Inteligencia Emocional en Liderazgo -->
+<a href="https://github.com/AnaJotta/AnaJotta/blob/396e2dbcff0b2639b935bc549079e48bf133ddb2/Emotional%20Intelligence%20in%20Leadership.pdf" target="_blank">
   <img src="https://img.icons8.com/ios-filled/24/000000/pdf.png" alt="PDF icon"/> Emotional Intelligence in Leadership
 </a>
+
 
 
 
