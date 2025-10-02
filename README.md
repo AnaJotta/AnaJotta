@@ -4,7 +4,10 @@
 ---
 
 ## 🎓 Certificaciones
-- [![PDF](https://img.icons8.com/ios-filled/24/000000/pdf.png) Ver certificado](https://raw.githubusercontent.com/AnaJotta/AnaJotta/396e2dbcff0b2639b935bc549079e48bf133ddb2/Emotional%20Intelligence%20in%20Leadership.pdf)
+- <a href="https://raw.githubusercontent.com/AnaJotta/AnaJotta/396e2dbcff0b2639b935bc549079e48bf133ddb2/Emotional%20Intelligence%20in%20Leadership.pdf" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/24/000000/pdf.png" alt="PDF icon"/> Emotional Intelligence in Leadership
+</a>
+
 
 
 ---
