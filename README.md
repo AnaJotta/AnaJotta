@@ -53,7 +53,7 @@ Tengo experiencia práctica en:
 
 Además, vengo de un recorrido profesional diverso (administración, docencia, retail), lo que me ha dado habilidades clave como **resolución de problemas, trabajo en equipo y comunicación**.
 
-Actualmente, busco seguir creciendo como desarrolladora, aportando soluciones eficientes, escalables y de calidad en proyectos reales 🚀.
+Actualmente, busco seguir creciendo como desarrolladora, aportando soluciones eficientes, escalables y de calidad en proyectos reales.
 
 ---
 
