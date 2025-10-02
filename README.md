@@ -3,7 +3,12 @@
 
 ---
 
-## 🚀 Tecnologías  
+## 🎓 Certificaciones
+- [Emotional Intelligence in Leadership (Udemy)](./certificates/emotional-intelligence-leadership.pdf)
+
+---
+
+## 🛸 Tecnologías  
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,java,kotlin,spring" />
@@ -30,7 +35,7 @@
 
 ---
 
-## 🌱 Sobre mí
+## 🙋‍♀️ Sobre mí
 
 Soy Ana Jessica Marín, estudiante de 2º curso de Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM).  
 Me apasiona el desarrollo de software, especialmente en el área **back-end** con **Java y Spring Boot**, aunque también disfruto creando aplicaciones móviles con **Kotlin** y **Android**.
