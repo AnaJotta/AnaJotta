@@ -50,6 +50,21 @@
 
 ---
 
+[![GitHub PRs](https://img.shields.io/badge/PRs-open-brightgreen?style=flat&logo=github)](https://github.com/pulls?q=is%3Apr+author%3AAnaJotta)
+
+---
+
+## 🌟 Contribuciones Open Source
+
+Estoy iniciando contribuciones con Pull Requests y forks, mejorando documentación, seguridad y buenas prácticas de desarrollo.  
+Mi contribución reciente:
+
+- [Fix sensitive .env files](https://github.com/firstcontributions/backend/pull/1) ✅
+- Forks y commits en proyectos de desarrollo y open source.
+
+[![GitHub PRs](https://img.shields.io/badge/PRs-abiertas-brightgreen?style=flat&logo=github)](https://github.com/pulls?q=is%3Apr+author%3AAnaJotta)
+
+
 ## 🙋‍♀️ Sobre mí
 
 Soy Ana Jessica Marín, estudiante de 2º curso de Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM).  
