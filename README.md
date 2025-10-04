@@ -54,7 +54,6 @@ Estoy iniciando contribuciones con Pull Requests y forks, mejorando documentaci�
 Mi contribución reciente:
 
 - [Fix sensitive .env files](https://github.com/firstcontributions/backend/pull/77) ✅
-- Forks y commits en proyectos de desarrollo y open source.
 
 [![GitHub PRs](https://img.shields.io/badge/PRs-open-brightgreen?style=flat&logo=github)](https://github.com/pulls?q=is%3Apr+author%3AAnaJotta)
 
