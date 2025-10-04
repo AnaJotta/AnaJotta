@@ -57,6 +57,7 @@ Mi contribución reciente:
 
 [![GitHub PRs](https://img.shields.io/badge/PRs-open-brightgreen?style=flat&logo=github)](https://github.com/pulls?q=is%3Apr+author%3AAnaJotta)
 
+---
 
 ## 🙋‍♀️ Sobre mí
 
